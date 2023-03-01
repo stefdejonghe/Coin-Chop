@@ -13,7 +13,7 @@ namespace Howest.Prog.CoinChop.Core.FirstClass
         public void Print()
         {
             Console.WriteLine("FirstClass");
-            Console.WriteLine("Tis kapot hè");
+            Console.WriteLine("FirstClass");
         }
     }
 }
